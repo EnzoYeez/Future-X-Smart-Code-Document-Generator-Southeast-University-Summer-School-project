@@ -40,16 +40,14 @@ python app.py
 ![WebPage](Screenshots/图片1.png)
 
 ### 2) Figure2
-![WebPage](Screenshots/图片1.png)
+![WebPage](Screenshots/图片2.png)
 
 ### 3) Figure3
-![WebPage](Screenshots/图片1.png)
+![WebPage](Screenshots/图片3.png)
 
 ### 4) Figure4
-![WebPage](Screenshots/图片1.png)
+![WebPage](Screenshots/图片4.png)
 
-### 5) Figure5
-![WebPage](Screenshots/图片5.png)
 ---
 
 ## 🧪 使用指南
