@@ -34,7 +34,22 @@ pip install -r requirements.txt
 python app.py
 # 访问: http://localhost:9001
 ```
+## Screenshots
 
+### 1) Figuer1
+![WebPage](Screenshots/图片1.png)
+
+### 2) Figure2
+![WebPage](Screenshots/图片1.png)
+
+### 3) Figure3
+![WebPage](Screenshots/图片1.png)
+
+### 4) Figure4
+![WebPage](Screenshots/图片1.png)
+
+### 5) Figure5
+![WebPage](Screenshots/图片5.png)
 ---
 
 ## 🧪 使用指南
