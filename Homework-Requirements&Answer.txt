@@ -1,0 +1,22 @@
+海外课程的作业和项目
+（1）quiz -课前测验和课后测验需要做（个人作业），会被评分（知识点可以参考PPT以及课后阅读）
+（2）lab-实验教程中提供的代码需要用colab过一遍，并尝试理解代码，可以在colab中的T4GPU中运行，代码中会有空的地方，自己填写好，保存副本到网盘！！（save a copy in Drive！！！），然后在自己的colab中运行，一共6个lab（个人作业）。每一个需要填写代码的notebook 都需要提交在submissions处。
+（3）project--小组作业（截止日期是本周日上午，需要以小组形式呈现PPT以及代码），可以先看一下project idea。
+
+答案：
+
+Quiz 
+Lecture-1
+ABCD T 
+C D F C C C
+Lecture-2
+BD T A
+C A 3 B A
+Lecture-3
+C B B
+A B T ABD D B
+Lecture-4
+D F F F B
+C C C T B
+
+全球胜任力小测：DACCB CAC

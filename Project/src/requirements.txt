@@ -1,0 +1,24 @@
+# Flask Web框架
+Flask==3.0.0
+flask-cors==4.0.0
+
+# OpenAI API客户端
+openai==1.97.1
+
+# Markdown处理
+markdown2==2.4.12
+
+# 环境变量管理
+python-dotenv==1.0.0
+
+# 生产服务器（可选）
+gunicorn==21.2.0
+
+# 请求处理
+requests==2.31.0
+
+# 文件处理
+Werkzeug==3.0.1
+
+# 日志美化（可选）
+colorlog==6.8.0
